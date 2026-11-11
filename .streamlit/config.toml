@@ -1,0 +1,9 @@
+# Streamlit theme/config - filled later
+[server]
+maxUploadSize = 50        # MB; keep this equal to MAX_PDF_MB in src/config.py
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#4F46E5"

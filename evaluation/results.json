@@ -1,0 +1,221 @@
+{
+  "pdf": "syllabus.pdf",
+  "date": "2026-11-11",
+  "summary": {
+    "scored": 20,
+    "correct": 17,
+    "accuracy_pct": 85,
+    "by_category": {
+      "text": {
+        "correct": 4,
+        "total": 6
+      },
+      "table": {
+        "correct": 5,
+        "total": 5
+      },
+      "multi_part": {
+        "correct": 4,
+        "total": 5
+      },
+      "unanswerable": {
+        "correct": 4,
+        "total": 4
+      }
+    },
+    "verified_citations": {
+      "fully_verified": 13,
+      "answered": 13
+    }
+  },
+  "records": [
+    {
+      "category": "text",
+      "question": "What is the vision of the B.E. Computer Science and Engineering programme?",
+      "answer": "The vision of the B.E. Computer Science and Engineering programme is to promote highly ethical and innovative computer professionals through excellence in teaching, training, and research [1].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "text",
+      "question": "What is Programme Educational Objective 2 (PEO 2)?",
+      "answer": "Programme Educational Objective 2 (PEO 2) is to prepare students with fundamental knowledge in programming languages and tools and enable them to develop applications [1][2].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "text",
+      "question": "What does Programme Outcome PO 8 cover?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": false,
+      "missing_keywords": [
+        "ethic"
+      ],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "text",
+      "question": "Which tree structures and tree topics are covered in Unit III of Data Structures?",
+      "answer": "Unit III covers the following tree structures and topics:\n\n* Tree Terminologies [1]\n* Binary Tree Representation [1]\n* Tree Traversals [1]\n* Binary Search Trees [1]\n* Binary Heap [1]\n* Height Balance trees – AVL Trees [1]",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "text",
+      "question": "Which synchronization mechanisms are listed under process synchronization in the Operating Systems syllabus?",
+      "answer": "Based on the syllabus for Process Synchronization (Unit III), the following synchronization mechanisms are listed [1]:\n\n* Peterson’s Solution [1]\n* Hardware Synchronization [1]\n* Semaphores [1]\n* Monitors [1]",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "text",
+      "question": "Which dimensionality reduction techniques are covered in Unit IV of Fundamentals of Machine Learning?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": false,
+      "missing_keywords": [
+        "Principal Component",
+        "Linear Discriminant"
+      ],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "table",
+      "question": "How many total credits are required for the B.E. Computer Science and Engineering programme under Regulation 2023?",
+      "answer": "Under Regulation 2023, a total of 160 credits are required for the B.E. Computer Science and Engineering programme [1][2][3].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "table",
+      "question": "What is the course title for the course code AI23331?",
+      "answer": "The course title for course code AI23331 is FUNDAMENTALS OF MACHINE LEARNING [1].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "table",
+      "question": "Which professional elective has the course code CR23A33?",
+      "answer": "The professional elective with the course code CR23A33 is Cryptocurrency and Blockchain Technologies [1].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "table",
+      "question": "What are the total credits and the total contact periods in Semester III?",
+      "answer": "In Semester III:\n* **Total Contact Periods:** 31 [1]\n* **Total Credits:** 24 [1][2]",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "table",
+      "question": "What is the course code of Compiler Design?",
+      "answer": "The course code of Compiler Design is CS23631 [1][2].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "multi_part",
+      "question": "What is the course code of Operating Systems, and which CPU scheduling algorithms are listed in its Unit II?",
+      "answer": "The course code for Operating Systems is CS23431 [1][2]. \n\nThe CPU scheduling algorithms listed in Unit II are FCFS, SJF, Priority, RR, Multilevel Queue Scheduling, and Multilevel Feedback Queue [3].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "multi_part",
+      "question": "Who is the author of the first textbook for Data Structures, and which minimum spanning tree algorithm is covered in Unit IV?",
+      "answer": "Based on the provided documents, the authors of the textbooks listed as number 1 are:\n* Mark Allen Weiss (for “Data Structures and Algorithm Analysis in C”) [1][2]\n* Anany Levitin (for “Introduction to the Design and Analysis of Algorithms”) [3]\n\nThe minimum spanning tree algorithm covered in Unit IV is Prim's Algorithm [4].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "multi_part",
+      "question": "How many contact hours does the theory part of Data Structures have, and what is the total contact hours including the lab?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": false,
+      "missing_keywords": [
+        "45",
+        "105"
+      ],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "multi_part",
+      "question": "What are the total credits in Semester VII, and what is the code of the project course offered in that semester?",
+      "answer": "The total credits in Semester VII are 18 [1][2]. The course code of the project course (Project Phase I) offered in that semester is CS23721 [1].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "multi_part",
+      "question": "What is the course code of Fundamentals of Machine Learning, and which reinforcement learning topics does Unit V include apart from passive reinforcement learning?",
+      "answer": "The course code for Fundamentals of Machine Learning is AI23331 [1]. \n\nApart from passive reinforcement learning, Unit V includes the following reinforcement learning topics: direct utility estimation, adaptive dynamic programming, temporal-difference learning, active reinforcement learning, exploration, learning an action utility function, generalization in reinforcement learning, policy search, applications in game playing, and applications in robot control [2].",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": true,
+      "verified_citations": true
+    },
+    {
+      "category": "unanswerable",
+      "question": "What is the tuition fee per semester for this programme?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "unanswerable",
+      "question": "What is the minimum attendance percentage required to appear for the end semester examination?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "unanswerable",
+      "question": "Which scholarships are available to students of this programme?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": false,
+      "verified_citations": false
+    },
+    {
+      "category": "unanswerable",
+      "question": "What are the hostel rules and timings for students?",
+      "answer": "I couldn't find the answer to this in the uploaded document.",
+      "correct": true,
+      "missing_keywords": [],
+      "answered": false,
+      "verified_citations": false
+    }
+  ]
+}

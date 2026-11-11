@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/uploads/*
+data/indexes/*
+data/models/
+data/llm_cache/
+!data/uploads/.gitkeep
+!data/indexes/.gitkeep
+.streamlit/secrets.toml

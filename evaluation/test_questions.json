@@ -1,0 +1,106 @@
+
+[
+  {
+    "category": "text",
+    "question": "What is the vision of the B.E. Computer Science and Engineering programme?",
+    "keywords": ["ethical", "innovative", "research"]
+  },
+  {
+    "category": "text",
+    "question": "What is Programme Educational Objective 2 (PEO 2)?",
+    "keywords": ["programming languages", "applications"]
+  },
+  {
+    "category": "text",
+    "question": "What does Programme Outcome PO 8 cover?",
+    "keywords": ["ethic"]
+  },
+  {
+    "category": "text",
+    "question": "Which tree structures and tree topics are covered in Unit III of Data Structures?",
+    "keywords": ["AVL", "Binary Heap"]
+  },
+  {
+    "category": "text",
+    "question": "Which synchronization mechanisms are listed under process synchronization in the Operating Systems syllabus?",
+    "keywords": ["Semaphores", "Monitors"]
+  },
+  {
+    "category": "text",
+    "question": "Which dimensionality reduction techniques are covered in Unit IV of Fundamentals of Machine Learning?",
+    "keywords": ["Principal Component", "Linear Discriminant"]
+  },
+
+  {
+    "category": "table",
+    "question": "How many total credits are required for the B.E. Computer Science and Engineering programme under Regulation 2023?",
+    "keywords": ["160"]
+  },
+  {
+    "category": "table",
+    "question": "What is the course title for the course code AI23331?",
+    "keywords": ["Fundamentals of Machine Learning"]
+  },
+  {
+    "category": "table",
+    "question": "Which professional elective has the course code CR23A33?",
+    "keywords": ["Cryptocurrency", "Blockchain"]
+  },
+  {
+    "category": "table",
+    "question": "What are the total credits and the total contact periods in Semester III?",
+    "keywords": ["24", "31"]
+  },
+  {
+    "category": "table",
+    "question": "What is the course code of Compiler Design?",
+    "keywords": ["CS23631"]
+  },
+
+  {
+    "category": "multi_part",
+    "question": "What is the course code of Operating Systems, and which CPU scheduling algorithms are listed in its Unit II?",
+    "keywords": ["CS23431", "SJF"]
+  },
+  {
+    "category": "multi_part",
+    "question": "Who is the author of the first textbook for Data Structures, and which minimum spanning tree algorithm is covered in Unit IV?",
+    "keywords": ["Weiss", "Prim"]
+  },
+  {
+    "category": "multi_part",
+    "question": "How many contact hours does the theory part of Data Structures have, and what is the total contact hours including the lab?",
+    "keywords": ["45", "105"]
+  },
+  {
+    "category": "multi_part",
+    "question": "What are the total credits in Semester VII, and what is the code of the project course offered in that semester?",
+    "keywords": ["18", "CS23721"]
+  },
+  {
+    "category": "multi_part",
+    "question": "What is the course code of Fundamentals of Machine Learning, and which reinforcement learning topics does Unit V include apart from passive reinforcement learning?",
+    "keywords": ["AI23331", "policy search"]
+  },
+
+  {
+    "category": "unanswerable",
+    "question": "What is the tuition fee per semester for this programme?",
+    "keywords": []
+  },
+  {
+    "category": "unanswerable",
+    "question": "What is the minimum attendance percentage required to appear for the end semester examination?",
+    "keywords": []
+  },
+  {
+    "category": "unanswerable",
+    "question": "Which scholarships are available to students of this programme?",
+    "keywords": []
+  },
+  {
+    "category": "unanswerable",
+    "question": "What are the hostel rules and timings for students?",
+    "keywords": []
+  }
+]
